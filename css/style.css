@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.title {
+    font-size: 35px;
+}
+
+.score {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.field {
+    background: lightgoldenrodyellow;
+    width: 700px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
